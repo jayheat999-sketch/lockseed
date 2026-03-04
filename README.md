@@ -4,7 +4,7 @@
 
 10 images in 22.6 seconds. Three-word prompt. No distillation. No LoRA. No cherry-picking.
 
-![angry hungry walrus](examples/walrus.png)
+![angry hungry walrus](comfyui*.png)
 *"angry hungry walrus" — Challenge XL for Winners, 10 steps, CLIP Mirror ON*
 
 ---
